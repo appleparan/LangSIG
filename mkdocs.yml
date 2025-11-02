@@ -3,7 +3,7 @@ site_description: 'Lang SIG는 언어 개발과 컴파일러에 관심이 많은
 site_author: 'Lang SIG'
 
 copyright: |
-  &copy; 2021 - 2024 Lang SIG
+  &copy; 2021 - 2025 Lang SIG
 
 site_dir: site/
 docs_dir: docs/
@@ -128,9 +128,8 @@ theme:
 #extra_css:
 
 extra_javascript:
-  - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/4.0.0/tex-mml-chtml.min.js
+  - https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0&features=es2022
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |

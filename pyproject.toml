@@ -7,12 +7,12 @@ authors = [
     { name = "Jongsu Liam Kim", email = "jongsukim8@gmail.com" }
 ]
 dependencies = [
-  "mkdocs==1.6.0",
-  "mkdocs-material==9.5.31",
-  "mkdocs-section-index==0.3.9",  
+  "mkdocs~=1.6.1",
+  "mkdocs-material~=9.6.23",
+  "mkdocs-section-index~=0.3.10",  
 ]
 readme = "README.md"
-requires-python = ">= 3.8"
+requires-python = ">= 3.10"
 
 [build-system]
 requires = ["hatchling"]
