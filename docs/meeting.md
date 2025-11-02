@@ -1,5 +1,8 @@
 ## 모임 기록
 
+### 2025-11-02
+- [Dive into Triton Internals](https://speakerdeck.com/appleparan/dive-into-triton-internals) by @skyobserver
+
 ### 2025-02-02
 - PyTorch Internal: Eager Mode & Graph Mode by @skyobserver
 - C stdlib isn’t threadsafe and even safe Rust didn’t save us by @b8
